@@ -6,4 +6,4 @@ Git is free software3.
 Git is free software4.
 Git has a mutable index called stage.
 Git tracks changes of file.
-Creating a new btanch is quick.
+Creating a new btanch is quick AND simple.
